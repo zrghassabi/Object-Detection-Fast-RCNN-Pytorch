@@ -1,5 +1,16 @@
 # Object-Detection-Fast-RCNN-Resnet50 in pytorch
 
+There are datasets for Objectd detection
+1- COCO dataset
+2- Pascal Voc
+
+The former dataset has 200K images and 90 objects. The later dataset has 5K images and 20 object. 
+
+To evaluate Object detection, we use mean Average precesion which you comape bounding box of groundtruth and predicted bounding box. You will draw Precesion-Recall base on IOU (Intersection/Union) and area under curve is mAP. To comput mAP, you just need to use COCO API libraries in Python. 
+
+Object Detection can be done in two ways:1) one-shot Network 2) two_shot Network
+
+
 We have a dataset including 200 images of one object which is a Raccoon (https://github.com/experiencor/raccoon_dataset)
 
 We used Pretrained Fast RCNN with updated weights of COCO dataset 
