@@ -37,4 +37,10 @@ A costum Dataset class is defined for RaccoonDataset
 
 We will test Faster R-CNN and RetinaNet in this tutorial.
 
+Fast R-CNN paper https://arxiv.org/pdf/1504.08083v2.pdf
+Code:   https://github.com/rbgirshick/py-faster-rcnn  in python
+
+
+
+
 
