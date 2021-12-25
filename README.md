@@ -42,7 +42,9 @@ Code:   https://github.com/rbgirshick/py-faster-rcnn  in python
         
         https://github.com/ShaoqingRen/faster_rcnn  
 
+to implement fast R-CNN in AWS, please see
 
+https://actinunsw.wordpress.com/2015/09/17/fast-r-cnn-in-aws-ec2/#:~:text=Fast%20R-CNN%20in%20AWS%20EC2%20Posted%20on%20September,about%20how%20to%20implement%20Fast%20R-CNN%20in%20AWS.
 
 
 
