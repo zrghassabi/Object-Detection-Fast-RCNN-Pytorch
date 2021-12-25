@@ -10,6 +10,13 @@ To evaluate Object detection, we use mean Average precesion which you comape bou
 
 Object Detection can be done in two ways:1) one-shot Network 2) two_shot Network
 
+one-shot network has two parts 1) Region Proposal Network (PRN) and 2) Detection head ===> So   CNN+PRN+Detection Head
+
+In PRN, several regions will be selected as candidate and in Detection head some of them will be removed and the region around the correct one will be determin accurately.
+
+This approach is slow because of PRN. So the PRN part is deleted in new deep models for object detection.
+
+
 
 We have a dataset including 200 images of one object which is a Raccoon (https://github.com/experiencor/raccoon_dataset)
 
@@ -26,5 +33,8 @@ ImageLab:https://imglab.in/
 Dataset info: .CSV file includes name of an image, width and hight of image, xmin,ymin, xmax,ymax of bounding box
 
 A costum Dataset class is defined for RaccoonDataset
+
+
+We will test Faster R-CNN and RetinaNet in this tutorial.
 
 
