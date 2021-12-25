@@ -39,6 +39,8 @@ We will test Faster R-CNN and RetinaNet in this tutorial.
 
 Fast R-CNN paper https://arxiv.org/pdf/1504.08083v2.pdf
 Code:   https://github.com/rbgirshick/py-faster-rcnn  in python
+        
+        https://github.com/ShaoqingRen/faster_rcnn  
 
 
 
