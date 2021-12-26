@@ -26,7 +26,7 @@ This approach is slow because of PRN. So the PRN part is deleted in new deep mod
 
 *To learn about VGG which is for large scale image recognition, see  https://howsam.org/vgg-deep-neural-network/
   
-
+* To learn object detection on RaspberryPi  https://github.com/NanoNets/RaspberryPi-ObjectDetection-TensorFlow
 
 
 
