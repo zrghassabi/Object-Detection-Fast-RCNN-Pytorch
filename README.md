@@ -16,10 +16,21 @@ In PRN, several regions will be selected as candidate and in Detection head some
 
 This approach is slow because of PRN. So the PRN part is deleted in new deep models for object detection.
 
-To know about YOLO see this link : https://howsam.org/yolo-algorithm/
+*To know about YOLO see this link : https://howsam.org/yolo-algorithm/  Yolo is has several convolutional layer and two fully connected layer, it uses MSE as loss function
 
-To learn about Object Detection see this link: https://howsam.org/introduction-to-object-detection/
+*To learn about Object Detection see this link: https://howsam.org/introduction-to-object-detection/
 
+*To learn about Mobilnet see https://howsam.org/mobilenet/    (using depth wise convolution)
+
+*To learn about LSTM see https://howsam.org/lstm-neural-network/   and   https://paperswithcode.com/method/lstm     LSTM solves long term dependency of RNN
+
+*To learn about VGG which is for large scale image recognition, see  https://howsam.org/vgg-deep-neural-network/
+  
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 We have a dataset including 200 images of one object which is a Raccoon (https://github.com/experiencor/raccoon_dataset)
 
