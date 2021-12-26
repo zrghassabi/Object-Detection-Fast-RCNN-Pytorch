@@ -16,6 +16,7 @@ In PRN, several regions will be selected as candidate and in Detection head some
 
 This approach is slow because of PRN. So the PRN part is deleted in new deep models for object detection.
 
+To know about YOLO see this link : https://howsam.org/yolo-algorithm/
 
 
 We have a dataset including 200 images of one object which is a Raccoon (https://github.com/experiencor/raccoon_dataset)
