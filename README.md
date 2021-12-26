@@ -18,6 +18,8 @@ This approach is slow because of PRN. So the PRN part is deleted in new deep mod
 
 To know about YOLO see this link : https://howsam.org/yolo-algorithm/
 
+To learn about Object Detection see this link: https://howsam.org/introduction-to-object-detection/
+
 
 We have a dataset including 200 images of one object which is a Raccoon (https://github.com/experiencor/raccoon_dataset)
 
